@@ -1,1 +1,1 @@
-https://github.com/soulgo112/librespark-LibreTV/edit/main/vercel.json
+{"rewrites":[{"source":"/proxy/:path*","destination":"/api/proxy/:path*"},{"source":"/s=:query","destination":"/index.html"},{"source":"/player.html/:path*","destination":"/player.html"}]}
